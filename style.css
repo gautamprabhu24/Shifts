@@ -1,0 +1,35 @@
+.navbar{
+   background-color: #776B5D;
+ }
+ .dropdown-item
+ {
+   color:aliceblue;
+ }
+ .dropdown-item:hover{
+   background-color: #EBE3D5;
+ }
+ .img-fluid{
+   border-radius: 10px;
+   box-shadow:5px 5px 5px #B0A695;
+ }
+ .btn-primary{
+   background-color: #776B5D;
+   border:none;
+ }
+ .btn-primary:hover{
+   background-color:#B0A695;
+ }
+ .btn-outline-secondary{
+   color:#776B5D
+ }
+ .btn-outline-secondary:hover{
+     background-color: #EBE3D5;
+     color:#776B5D
+ }
+ .svgs{
+   background-color: white;
+
+ }
+ .col{
+   color:#776B5D;
+ }
